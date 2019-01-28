@@ -233,7 +233,9 @@ to move
 end
 
 
-;; Arbuzov, M. (2018). Simple Speculative Market Simulation. Economics Department, SJSU, San Jose, CA.
+;; Arbuzov, M. (2018). Simple Speculative Market Simulation. 
+;; research/speculative_market_simulation/speculative_market_simulation.nlogo
+;; Economics Department, SJSU, San Jose, CA.
 
 ; Copyright 2007 Uri Wilensky.
 ; See Info tab for full copyright and license.
